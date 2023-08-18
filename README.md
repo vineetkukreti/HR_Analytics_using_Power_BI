@@ -1,6 +1,6 @@
 # HR Analytics Dashboard using Power BI
 
-![HR Analytics Dashboard](dashboard_screenshot.png)
+![HR Analytics Dashboard](page_1.png)
 
 ## Overview
 
